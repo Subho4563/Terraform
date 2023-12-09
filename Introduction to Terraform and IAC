@@ -1,0 +1,14 @@
+1. What is Terraform?
+Terraform is a open source communication as a system software tool created by Hashicorp. It uses HCL as it's language.
+It is also a (IAC) tool that allows you to create, update and manage your cloud Infrastructure.
+
+2. Advantages of Terraform?
+Multi Cloud Support - Can use with AWS, AZURE, GCP. Easily portable from one provider to another.
+HCL language - works on HCL, which is very easy to understand and easy to learn.
+Integration with other tools - can easily be integrated with tools like ansible, docker, Jenkins allowing you to create comprehensive automation pipelines.
+Community Support: Terraform has a large and active user community, which means you can find answers to common questions, troubleshooting tips, and a wealth of documentation and tutorials online.
+
+3. Define IAC?
+It allows you to build, change and manage your Infrastructure through coding instead of manual processes.
+With IAC, configuration files are created that contain your infrastructure specifications, which makes it easier to edit and distribute contributions.
+
